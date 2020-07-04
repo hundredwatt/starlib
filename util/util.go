@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	starlibtime "github.com/qri-io/starlib/time"
+	starlibtime "github.com/hundredwatt/starlib/time"
 	"go.starlark.net/starlark"
 	"go.starlark.net/starlarkstruct"
 )
